@@ -6,6 +6,9 @@ torch
 transformers
 sentence-transformers
 faiss-cpu
-pickle-mixin
 python-dotenv
+
 chromadb
+langchain
+langchain-community
+langchain-chroma
